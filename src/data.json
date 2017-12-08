@@ -1,0 +1,99 @@
+[
+	{
+		"title": "Kelas ASD",
+		"time": "12:30-13:30",
+		"detail": "Putra Pandu",
+		"date": "23-10-2017",
+		"location": "Gedung A2.2",
+		"day": "monday"
+	},
+	{
+		"title": "Kelas ASD",
+		"time": "09:30-11:30",
+		"detail": "Putra Pandu",
+		"date": "23-10-2017",
+		"location": "Gedung A2.2",
+		"day": "monday"
+	},
+	{
+		"title": "Kelas ASD",
+		"time": "12:30-13:30",
+		"detail": "Putra Pandu",
+		"date": "24-10-2017",
+		"location": "Gedung A2.2",
+		"day": "tuesday"
+	},
+	{
+		"title": "Kelas ASD",
+		"time": "09:40-11:30",
+		"detail": "Putra Pandu",
+		"date": "24-10-2017",
+		"location": "Gedung A2.2",
+		"day": "tuesday"
+	},{
+		"title": "Kelas ASD",
+		"time": "09:30-11:30",
+		"detail": "Putra Pandu",
+		"date": "24-10-2017",
+		"location": "Gedung A2.2",
+		"day": "tuesday"
+	},{
+		"title": "Kelas ASD",
+		"time": "12:30-13:30",
+		"detail": "Putra Pandu",
+		"date": "25-10-2017",
+		"location": "Gedung A2.2",
+		"day": "wednesday"
+	},{
+		"title": "Kelas ASD",
+		"time": "12:30-13:30",
+		"detail": "Putra Pandu",
+		"date": "26-10-2017",
+		"location": "Gedung A2.2",
+		"day": "thursday"
+	},{
+		"title": "Kelas ASD",
+		"time": "09:30-11:30",
+		"detail": "Putra Pandu",
+		"date": "27-10-2017",
+		"location": "Gedung A2.2",
+		"day": "friday"
+	},{
+		"title": "Kelas ASD",
+		"time": "12:30-13:30",
+		"detail": "Putra Pandu",
+		"date": "27-10-2017",
+		"location": "Gedung A2.2",
+		"day": "friday"
+	},{
+		"title": "Kelas ASD",
+		"time": "09:30-11:30",
+		"detail": "Putra Pandu",
+		"date": "25-10-2017",
+		"location": "Gedung A2.2",
+		"day": "wednesday"
+	},{
+		"title": "Kelas ASD",
+		"time": "12:30-13:30",
+		"detail": "Putra Pandu",
+		"date": "28-10-2017",
+		"location": "Gedung A2.2",
+		"day": "saturday"
+	},{
+		"title": "Kelas ASD",
+		"time": "09:30-11:30",
+		"detail": "Putra Pandu",
+		"date": "29-10-2017",
+		"location": "Gedung A2.2",
+		"day": "sunday"
+	},{
+		"title": "Kelas ASD",
+		"time": "12:30-13:30",
+		"detail": "Putra Pandu",
+		"date": "22-10-2017",
+		"location": "Gedung A2.2",
+		"day": "sunday"
+	},
+	
+	
+]
